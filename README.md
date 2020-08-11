@@ -23,3 +23,5 @@ Student, founder, developer & electronics hobbyst. Primarily designing consumer 
 - [Reddit](https://www.reddit.com/user/deyyanl)
 - [Snapchat](https://www.snapchat.com/add/deyyanl)
 - [Discord: deyyan#8737](https://discord.gg/fq7QdJP)
+
+![deyyanl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deyyanl&count_private=true&show_icons=true&theme=dark)
