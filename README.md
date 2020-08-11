@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Dejan Lukić
+### I'm Dejan Lukić
 ### A student, full stack developer, DevOps, designer and founder of Arteron
 
 - 🔭 I’m currently working on **Arteron Bot - Fully customizeable, multipurpose and multilingual Discord bot**
