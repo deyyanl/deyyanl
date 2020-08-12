@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on **Arteron Bot - Fully customizeable, multipurpose and multilingual Discord bot**
 - 🌱 I’m currently learning **C# and practicing Java**
 - 📫 How to reach me: **dejan@arteron.xyz or hit me up on Discord (down below)**
+- PCB designer and electronics hobbyst
 
 ### Technologies that I use
 - Node.js,
