@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **[Arteron xRGB](https://github.com/xrgb) - An open-source, scalable, software-driven addressable and analog LED controller.**
 - 🌱 I’m currently learning **scalable multithreading**
 - 📫 How to reach me: **dejan@arteron.xyz or hit me up on Discord (down below)**
-- PCB designer and electronics hobbyst
+- ⚡ PCB designer and electronics hobbyst
 
 ### Technologies that I use
 - Node.js,
