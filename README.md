@@ -3,7 +3,7 @@
 ### A student, full stack developer, DevOps, designer and founder of Arteron
 
 - 🔭 I’m currently working on **[Arteron xRGB](https://github.com/xrgb) - An open-source, scalable, software-driven addressable and analog LED controller.**
-- 🌱 I’m currently learning **scalable multithreading, NVIDIA CUDA SDK, HDMI's interface and signal**
+- 🌱 I’m currently learning **scalable multithreading, NVIDIA CUDA SDK, HDMI interface and signal**
 - 📫 How to reach me: **dejan@arteron.xyz or hit me up on Discord (down below)**
 - ⚡ PCB designer and electronics hobbyst
 
