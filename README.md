@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Dejan Lukić
-### A student, full stack developer, DevOps, designer and founder of Arteron
+### A student, full stack developer, DevOps, designer and founder of Parallax and xRGB
 
 - 🔭 I’m currently working on **a high altitude balloon**
 - 🌱 I’m currently learning **NVIDIA CUDA SDK**
